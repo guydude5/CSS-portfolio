@@ -3,6 +3,7 @@ color: #551a8b;
 }
 h1 {
  color: blue;
+ float: middle;
 }
 ul {
     list-style-type: none;
