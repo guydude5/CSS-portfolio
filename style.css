@@ -3,14 +3,14 @@ background-color: purple;
 }
 h1 {
  color: green;
- float: middle;
+  text-align: center;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
+    background-color: #333;
 }
 li a {
     display: block;
