@@ -29,3 +29,6 @@ p { color: red;
 
 <pokemon-1593048_1920 (1).jpg align="middle">
 
+img {
+    vertical-align: text-top;
+}
